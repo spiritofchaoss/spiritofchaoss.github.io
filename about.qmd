@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 ---
 
-About this site
+a bit more about me, both inside and outside of my job
