@@ -1,5 +1,11 @@
 ---
 title: "about"
+subtitle: "a bit more about me, both inside and outside of my job"
+title-block-banner: true
 ---
 
-a bit more about me, both inside and outside of my job
+##the profession
+
+I'm the Data Analyst at the Therapeutic Development Branch within the National Center of Advancing Translational Sciences (NCATS), National Institute of Health (NIH), where my team and I are working to develop RARe-SOURCE^TM^, an bioinformatics platform for rare diseases.
+
+My background is in biochemistry / bioinformatics -- I had opportunities to study HSP90 protein interactions as an undergrad, then work in analytical sciences developing physiochemical analytical methods to characterize and quantify drug product variants, and today where I'm developing rare disease resources to advancing translational sciences. Since the early days where I discovered my love for science from my high school chemistry teacher, I have found my path in using everything I know to make a impact on making lives better.

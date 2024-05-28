@@ -3,18 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "Jason Cheung"
+  site-url: https://github.com/spiritofchaoss/spiritofchaoss.github.io
+  google-analytics: 
+    tracking-id: ""
+    anonymize-ip: true
   navbar:
-    left:
+    title: false
+    right:
       - href: index.qmd
-        text: Home
+        text: home
       - about.qmd
+      - text: get in touch!
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/jason-cheung-3vb/
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:cheung.jason06@gmail.com
+      - icon: github
+        href: https://github.com/spiritofchaoss
+        target: _blank
+  page-footer: 
+    background: light
+    left: © Copyright 2024, Jason Cheung
+    right: This website is built with [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    page-layout: full
+    sidebar: false
+    theme: 
+      - styles.css
+    mainfont: Nunito
     toc: true
-
-
-

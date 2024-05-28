@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Hi there! I’m Jason. Professionally, I am passionate for leveraging data analytics and project management to drive impactful outcomes in the rare disease space. My scientific curiosity extends to exploring protein structure, function, design, and their diverse applications using data science, machine learning, and AI. Outside of work, I find solace in rigorous gym sessions, fostering companionship with my dog Comet, refining the art of coffee brewing, and sitting back and enjoying playing video games."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
-    "text": "About this site"
+    "text": "##the profession\nI’m the Data Analyst at the Therapeutic Development Branch within the National Center of Advancing Translational Sciences (NCATS), National Institute of Health (NIH), where my team and I are working to develop RARe-SOURCETM, an bioinformatics platform for rare diseases.\nMy background is in biochemistry / bioinformatics – I had opportunities to study HSP90 protein interactions as an undergrad, then work in analytical sciences developing physiochemical analytical methods to characterize and quantify drug product variants, and today where I’m developing rare disease resources to advancing translational sciences. Since the early days where I discovered my love for science from my high school chemistry teacher, I have found my path in using everything I know to make a impact on making lives better."
   }
 ]

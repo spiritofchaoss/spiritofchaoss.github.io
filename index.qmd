@@ -1,5 +1,25 @@
 ---
-title: "Jason Cheung"
+title: ""
+image: images/headshot.jpg
+toc: false
 about:
-    template: jolla
+  template: jolla
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.https://www.linkedin.com/in/jason-cheung-3vb/
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/spiritofchaoss
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:cheung.jason06@gmail.com
 ---
+
+<!-- ::: {.small-text} -->
+Hi there! I'm Jason. Professionally, I am passionate for leveraging data analytics and project management to drive impactful outcomes in the rare disease space. My scientific curiosity extends to exploring protein structure, function, design, and their diverse applications using data science, machine learning, and AI. Outside of work, I find solace in rigorous gym sessions, fostering companionship with my dog Comet, refining the art of coffee brewing, and sitting back and enjoying playing video games.
+<!-- ::: -->
