@@ -11,9 +11,9 @@ website:
     title: false
     right:
       - href: index.qmd
-        text: home
+        text: Home
       - about.qmd
-      - text: get in touch!
+      - text: Contact
         menu:
           - icon: linkedin
             text: LinkedIn
